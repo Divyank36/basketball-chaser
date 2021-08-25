@@ -1,7 +1,7 @@
  
 
 
-> Open this page at [https://divyank36.github.io/basketball-chaser/](https://divyank36.github.io/basketball-chaser/)
+> Open this page at https://makecode.com/_1FiJp9J9DEc8 to play
 
 ## Use as Extension
 
